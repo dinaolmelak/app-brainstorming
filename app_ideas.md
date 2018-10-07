@@ -62,15 +62,12 @@ Scope:Facebook has become pretty complex as you must download another app to ful
 - laundry opening app
 
 ### Donation Centers
-
-- 
 - **Category**: Lifestyle
-
 - **Mobile**: using this app you can be able to find nearby donation centers.
 - **Story**: This app is valuable for being to help others instantly. 
 - **Market**: The market this app is going to be targeting is mostly going to be those people who are from 18 and above
 - **Habit**: An average user would access this app atleast once a week
-- **Scope**: 
+- **Scope**: This app would benefit people to help different charity organizations raise money.
 
 ### Things to do in a location
 
