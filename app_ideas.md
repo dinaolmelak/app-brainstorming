@@ -1,13 +1,13 @@
 **Favorite Apps**
-Youtube
-Hulu
-Snapchat
-Twitter
-Pandora
-Facebook
-Spotify
-ESPN
-Instagram
+- Youtube
+- Hulu
+- Snapchat
+- Twitter
+- Pandora
+- Facebook
+- Spotify
+- ESPN
+- Instagram
 
 ### Youtube
 - **Category**: Social/ Entertainment
@@ -44,15 +44,17 @@ Market: This is for anybody who wants to socialize and chat with other people ar
 Habit: Users can post videos,photos and status with their captions.They can also post videos live as well as stories. So people can check daily when is going on the world.
 Scope:Facebook has become pretty complex as you must download another app to fully use their messaging functions.
 
-### Twitter
+## Twitter
 - **Category**: Social Networking/ News
 - **Mobile**: It has a mobile app and website.
 - **Story**:Twitter is to share moments to everyone as they are happening. You could have follwers and live streams.
 - **Market**: Anybody who wants to stay in the touch in the daily news. 
 - **Habit**: People usually check daily and post frequently about new happening.
 - **Scope**: It started out as people wanted to see what people would say and has has now become the news of polarizing sides.
-**Everyday Problems**
-- friends with in a college 
+
+## **Everyday Problems**
+
+- friends with in a college
 - [x][x][x][x]Donation Centers 
 - [x][x][x][x]Things to do in location 
 - [x][x]Find a roomate
@@ -60,10 +62,9 @@ Scope:Facebook has become pretty complex as you must download another app to ful
 - [x]Nearby tutors
 - take my parking spot
 - laundry opening app
+- An app that suggest cloth to wear based on the weather
 
 ### Donation Centers
-
-- 
 - **Category**: Lifestyle
 
 - **Mobile**: using this app you can be able to find nearby donation centers.
