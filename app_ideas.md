@@ -89,3 +89,65 @@ Scope:Facebook has become pretty complex as you must download another app to ful
 - **Market**: This app would be available to everyone who is looking to either rent a room/house or rent out their room/house.
 - **Habit**: The average user would use this app only when they are looking to rent out or rent an open room. Users may not use it frequently but there should be a large amount of users. 
 - **Scope**: Could possible extend further than renting out rooms/houses to renting out cars and things like that. 
+
+
+
+**SocioHelp:**
+shows events you can attend, soicial gathering, parties, places to go voluntieer, place to go donate
+
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * User see list of events
+ * User has to be able to post events
+ * User see a map of the events
+ * User See details of the event (if there is any requirements for the event)
+
+**Optional Nice-to-have Stories**
+
+ * User should see live feed
+ * User should be able to contribute to the feed if at the event
+ * User gets Badges the more they participate
+
+## 2. Screen Archetypes
+//------------Required-------------//
+ * Login / Register - User signs up or logs into their account
+   * Map View - Often visualizing location-based information 
+ * Detail - User can view the specifics of a particular resource
+   * Creation - User can create a new resource
+
+//-----------Optionals------------//
+ * Media Players - Allowing the control of media playback
+ * Messaging - Real-time chat and group conversations
+ * Calendar - Visualize dates or events into calendar form
+
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * [Home](Map view)
+   * Shows different events nearby
+ * [Creation]
+   * Create a new event 
+ * [Settings]
+   * profile
+
+**Flow Navigation** (Screen to Screen)
+
+ * Login / Register - User signs up or logs into their account
+   * Home screen (Map View)
+ * Map View - Often visualizing location-based information 
+   * Details 
+   
+ * Detail - User can view the specifics of a particular resource
+   * Home screen (Map View)
+   * Media Players 
+ * Creation - User can create a new resource
+   * Home Screen (Map View)
+
+//-----------Optionals------------//
+ * Media Players - Allowing the control of media playback (Live Stream)
+ * Messaging - Real-time chat and group conversations
+ * Calendar - Visualize dates or events into calendar form
