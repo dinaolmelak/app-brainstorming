@@ -5,15 +5,12 @@ This app is designed for users to help people socialize with eachother by partic
 
 
 ### App Idea Evaluation
-// TODO: Evaluate app across the following categories using the App Evaluation Protocol.
 - Catagory: Social Networking
 - Mobile: Using this app a user is able to add any kind of events he/she is participating in.
 - Story: It gives users the opportunity to participate in any events happening nearby.
 - Market: This app is designed for users to be able to help a person in need. Using this app a person can setup an event when helping people in need.
 - Habit: The user would be looking at this app on a daily basis.
 - Scope: This app would have an average difficulty. It is possible to build this app by the end of this workshop.
-
----
 
 ### User Stories
 
